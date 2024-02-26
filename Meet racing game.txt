@@ -1,0 +1,5 @@
+// Java Game: Underworld Chronicles
+public class UnderworldChronicles {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Underworld Chronicles!");
+        // Add your Underworld Chronicles game script here
